@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Basics
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+* I am a computer programmer living in Omaha, NE.
+* My name is Matt Payne.
+* I try to be nice.  Boundaries are an important component of being nice.
+* There are, at least, three people named Matt Payne in Omaha, NE.
+* AFAIK I am the only Matt Payne who is a computer programmer.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+## Very kind background story
+* Many thanks to [Agape Red](http://AgapeRed.com) for a [nice writeup about me](http://blog.agapered.com/matt-payne-is-awesome/)
