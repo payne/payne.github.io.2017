@@ -7,6 +7,5 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
-I'm working on [slides for Gradle Introduction](http://payne.github.io/GradleIntro2013).
+[Slides for Gradle Introduction](http://payne.github.io/GradleIntro2013) are not the best talk I've ever given.  There are a few handy things in there....

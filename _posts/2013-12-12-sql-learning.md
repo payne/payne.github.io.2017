@@ -7,7 +7,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 Learn some SQL:
 

@@ -1,14 +1,8 @@
 ---
 layout: post
 title: "Jekyll first steps"
-comments: false
-ads: false
-category: 
-description: ""
-category: Jekyll
-tags: [Jekyll]
+categories: Jekyll
 ---
-{% include JB/setup %}
 
 Every Jekyll post file should have these two lines near the top:
 <pre>
