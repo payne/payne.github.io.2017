@@ -29,7 +29,7 @@ The [Computer Science and Software Engineering Theory with Briana](https://www.y
 
 I'm mostly interested in software development.
 
-[How to teach yourself code](https://www.youtube.com/watch?v=qZKvZzRynLE) is a 17 minute interview that contains some wonderful advice.  I have put my notes from this video in a post about [teach yourself code]().
+[How to teach yourself code](https://www.youtube.com/watch?v=qZKvZzRynLE) is a 17 minute interview that contains some wonderful advice.  I have put my notes from this video in a post about [teach yourself code](http://mattpayne.org/learning/2016/09/10/teach-yourself-code.html).
 
 
 ### Web applications

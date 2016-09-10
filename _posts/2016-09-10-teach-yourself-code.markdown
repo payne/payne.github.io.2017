@@ -10,13 +10,13 @@ If you have the money, buy some education!  It will accelerate your learning.
 [“How to Teach Yourself Code”](https://www.youtube.com/watch?v=qZKvZzRynLE) makes five points:
 
 1. Code Everyday
-    1. http://ejohn.org/blog/write-code-every-day/
+    1. [Write Code Every Day by John Resig](http://ejohn.org/blog/write-code-every-day/)
     1. Build up intrinsic motivation where you feel your work is its own reward.
     1. Focus on three days in a row
     1. Focus on three weeks in a row
     1. Focus on three months in a row — then it’s a habit!
     1. Can always fall off of a habit.   Then get back on!
-    1. http://pomodorotechnique.com/
+    1. [Pomodoro Technique](http://pomodorotechnique.com/)
           1. 30 minutes — 25 minutes then five minute break
           1. Once in the zone, may not want/need a break.
           1. Start with three consecutive days of pomodoro
