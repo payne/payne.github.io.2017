@@ -25,6 +25,8 @@ This page has two goals:
    1. JavaScript
 
 ### Fundamentals
+1. [exercism.io](http://exercism.io)
+  1. [JavaScript](http://exercism.io/languages/javascript)
 1. 99 problems
 1. [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
 
