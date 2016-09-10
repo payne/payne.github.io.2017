@@ -10,8 +10,6 @@ categories: learning free
 [Lynda.com](https://www.lynda.com) 
 via the Omaha Public Library.
 
-
-
 A January 11, 2015 [Omaha World-Herald article](http://www.omaha.com/living/bookends-omaha-library-offering-free-access-to-lynda-instructional-videos/article_d39a8a39-9b45-5848-ab53-1f3eaaaafc41.html) says: 
 
 > Lynda.com, the popular online training library, is now available for Omaha Public Library patrons.
@@ -24,9 +22,15 @@ Wow!  This is wonderful!
 
 I too am a big fan of both 
 [FreeCodeCamp.com](https://www.freecodecamp.com) and 
-[Lynda.com](https://www.lynda.com). 
+[Lynda.com](https://www.lynda.com).   
+The [Computer Science and Software Engineering Theory with Briana](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy) are fantastic!   I like that they are small and well labeled.  They can be watched in order or you can just jump to what you want to learn.
 
 ## Other free learning resources I've seen include:
+
+I'm mostly interested in software development.
+
+[How to teach yourself code](https://www.youtube.com/watch?v=qZKvZzRynLE) is a 17 minute interview that contains some wonderful advice.  I have put my notes from this video in a post about [teach yourself code]().
+
 
 ### Web applications
 1. [CodingBat](http://codingbat.com/)
