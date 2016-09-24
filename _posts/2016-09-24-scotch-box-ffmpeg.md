@@ -9,13 +9,14 @@ categories: linux video
 But it doesn't come with [ffmpeg](https://ffmpeg.org/).   While working small project taking the sound from one video and "pasting" it onto a video that just shows the presenting monitor,
 [stack overflow said](http://stackoverflow.com/questions/12938581/ffmpeg-mux-video-and-audio-from-another-video-mapping-issue)
 to do this:
+
 ```
 ffmpeg -i presentation_monitor_no_sound.mp4 -i room_video_and_audio.mp4 -c copy -map 0:0 -map 1:1 -shortest output.mp4
 ```
+
 and it worked great!
 
 ![title]({{site.url}}/static_files/ffmpeg_diagram_2016_09_24.png){:class="img-responsive"}
 
-
-
-Ubuntu 14.04 LTS (Trusty Tahr)
+Scotch Box comes with a lot of great stuff, but no ffmpeg.   Since Scotch Box is running Ubuntu 14.04 LTS (Trusty Tahr).  
+It took a few minutes to install ffmpeg.  Here's a note to my future self on google helped me discover how to do it.
