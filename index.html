@@ -19,7 +19,7 @@ layout: default
 
   </div>
 
-  <div class="col-md-3">
+  <div class="col-md-3  col-md-offset-1">
 
   {% for post in site.posts limit:n offset:n%}
     {{ post.date | date: "%b %-d, %Y" }}
@@ -28,7 +28,7 @@ layout: default
 
   </div>
 
-  <div class="col-md-3">
+  <div class="col-md-3  col-md-offset-2">
 
   {% for post in site.posts limit:n offset:m %}
     {{ post.date | date: "%b %-d, %Y" }}
