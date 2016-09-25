@@ -22,15 +22,15 @@ Scotch Box comes with a lot of great stuff, but no ffmpeg.   Since Scotch Box is
 It took a few minutes to install ffmpeg.  Here's a note to my future self on google helped me discover how to do it.
 
 1. apt-get install ffmpeg
-  1. this failed.
+   1. this failed.
 1. cat /etc/issue
-  1. this shows that it's Ubuntu 14.04.   This allowed for googling that pointed to:
+   1. this shows that it's Ubuntu 14.04.   This allowed for googling that pointed to:
 1. add-apt-repository ppa:mc3man/trusty-media
-  1. There was a warning about it being deprecated, but it worked anyway.
+   1. There was a warning about it being deprecated, but it worked anyway.
 1. apt-get update
 1. apt-get dist-upgrade
 1. echo $?
 1. apt-get install ffmpeg
-  1. Things worked this time :-) 
+   1. Things worked this time :-) 
   
   
