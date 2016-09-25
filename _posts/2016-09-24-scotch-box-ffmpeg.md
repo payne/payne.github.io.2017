@@ -16,7 +16,7 @@ ffmpeg -i presentation_monitor_no_sound.mp4 -i room_video_and_audio.mp4 -c copy 
 
 and it worked great!
 
-![title]({{site.url}}/static_files/ffmpeg_diagram_2016_09_24.png){:class="img-responsive"}
+[![title]({{site.url}}/static_files/ffmpeg_diagram_2016_09_24.png){:class="img-responsive"}](http://stackoverflow.com/questions/12938581/ffmpeg-mux-video-and-audio-from-another-video-mapping-issue)
 
 Scotch Box comes with a lot of great stuff, but no ffmpeg.   Since Scotch Box is running Ubuntu 14.04 LTS (Trusty Tahr).  
 It took a few minutes to install ffmpeg.  Here's a note to my future self on google helped me discover how to do it.
