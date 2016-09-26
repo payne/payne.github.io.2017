@@ -10,4 +10,5 @@ important to talk with each other about money.
 > "Wait. This story sucks. If it were one of those Choose Your Own Adventures, here’s where you’d want to flip back, start over, rewrite what happens to you."
 
 
+[Story posted at Huffington Post](http://www.huffingtonpost.com/paulette-perhach/a-story-of-a-fuck-off-fund_b_9065308.html)
 
