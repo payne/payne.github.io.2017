@@ -20,3 +20,8 @@ permalink: /ynab/
    1. At 50, 6x your salary at that age.
    1. At 60, 8x your salary at that age.
    1. At 67, your savings should be 10x of your salary at 67.
+
+## Be sure to have [your fund](http://mattpayne.org/money/2016/09/25/Money-Choose-Your-Own-Adventures.html)
+1. This is very important!!!  
+Read the [full article](http://mattpayne.org/money/2016/09/25/Money-Choose-Your-Own-Adventures.html)
+to understand just how important it can be!
