@@ -16,3 +16,8 @@ permalink: /about/
 
 ## Very kind background story
 * Many thanks to [Agape Red](http://AgapeRed.com) for a [nice writeup about me](http://blog.agapered.com/matt-payne-is-awesome/)
+
+
+## Motivation
+1. [Frank Zappa: Will That Be An Aisle or a Window](https://vimeo.com/27561923)
+
