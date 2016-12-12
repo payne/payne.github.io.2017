@@ -13,6 +13,9 @@ This page has two goals:
 1. Handy place to keep & update what I'm studying.
 1. Invitation for people to help me or study with me.
 
+### JavaScript and CSS
+1. [JavaScript30.com](https://javascript30.com)
+
 ### Full Stack Developer
 1. CodeSchool.com 
    1. JavaScript
