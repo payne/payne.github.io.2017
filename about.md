@@ -20,4 +20,5 @@ permalink: /about/
 
 ## Motivation
 1. [Frank Zappa: Will That Be An Aisle or a Window](https://vimeo.com/27561923)
+2. [Hallelujah and "I'm not giving up and neither should you"](https://www.youtube.com/watch?v=BG-_ZDrypec)
 
