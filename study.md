@@ -20,6 +20,7 @@ This page has two goals:
 1. CodeSchool.com 
    1. JavaScript
    1. EmberJS
+      1. It's easy to [run emberJS apps on c9.io](https://community.c9.io/t/getting-started-with-emberjs/1788)
    1. Rails
 1. Pluralsight.com
    1. JavaScript
