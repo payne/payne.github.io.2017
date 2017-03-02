@@ -22,3 +22,11 @@ permalink: /about/
 1. [Frank Zappa: Will That Be An Aisle or a Window](https://vimeo.com/27561923)
 2. [Hallelujah and "I'm not giving up and neither should you"](https://www.youtube.com/watch?v=BG-_ZDrypec)
 
+## Logistics
+1. Twitter
+2. email
+3. paypal.me/MattPayneOrg
+4. google hangouts
+5. c9.io/payne
+6. github
+7. 
