@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Guava Cache with Removal Listener"
+categories: java
+---
+
 
 ```
 package learning;
@@ -27,11 +33,13 @@ public class CacheTests {
   public void simpleTest()
       throws Exception {
     CacheBuilder<String, Boolean> builder = CacheBuilder.newBuilder()
-        .expireAfterWrite(10, TimeUnit.MILLISECONDS).removalListener(new SimpleRemovalListener());
+        .expireAfterWrite(10, TimeUnit.MILLISECONDS)
+        .removalListener(new SimpleRemovalListener());
     Cache<String, Boolean> cache = builder.build();
     cache.put("A123", true);
     cache.size();
-    Thread.sleep(20L); //TODO(MGP): Use the ticker thing to make a better test!!
+    //TODO(MGP): Use the ticker thing to make a better test!!
+    Thread.sleep(20L); 
     cache.put("A124", true);
     cache.put("A125", true);
     assertThat(removed.size(), is(1));
@@ -48,3 +56,4 @@ public class CacheTests {
 }
 
 ```
+
