@@ -21,7 +21,8 @@ public class CartesianProductTest {
     Set<String> a = new HashSet<>(Arrays.asList("a", "b", "c"));
     Set<String> b = new HashSet<>(Arrays.asList("1", "2"));
     Set<List<String>> ab = Sets.cartesianProduct(a, b);
-    assertThat(ab.toString(), is("[[a, 1], [a, 2], [b, 1], [b, 2], [c, 1], [c, 2]]"));
+    assertThat(ab.toString(), 
+      is("[[a, 1], [a, 2], [b, 1], [b, 2], [c, 1], [c, 2]]"));
   }
 }
 ```
