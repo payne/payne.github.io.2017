@@ -27,3 +27,13 @@ public class CartesianProductTest {
 }
 ```
 
+    private Map<String, Counter> newBudgetCompletionEventsCounters() {
+      Map<String, Counter> counters = Lists
+          .cartesianProduct(
+              Arrays.asList(Arrays.asList("a", "b", "c"), //
+                  Arrays.asList("1", "2")))//
+          .stream() //
+          .map(stringList -> stringList.get(0) + stringList.get(1))
+          .collect(Collectors.toMap(name -> name, name -> newCounter(name)));
+      return ImmutableMap.copyOf(counters);
+    }
