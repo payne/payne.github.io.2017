@@ -1,0 +1,33 @@
+https://www.youneedabudget.com/fbi/
+https://github.com/halloffame/ynab-csv
+
+
+I am not sure I'm interested in the work associated with ledger (or some other http://PlainTextAccounting.org/ system).
+
+I'm intrigued by the plain text data format and the theoretical possibility of an accounting system where many people can build tools for the data rather than just waiting for a new feature to be released by YNAB/MoneyWell/Quicken.
+
+https://github.com/toolkit-for-ynab/toolkit-for-ynab is an example of not YNAB innovating on the YNAB platform.
+
+It would be AMAZING if accounting software exported to ledger format directly rather than just CSV. There are lots of CSV to ledger format tools. I've not tried many, yet.
+
+Currently, I'm thinking about the pipe dream of YNAB as primary and then monthly/weekly exports of the data to CSV. Running that CSV through some programs to build a ledger journal. Then when Tracey comments that YNAB search isn't that good, we can use our journal data files. When YNAB fails to make it easy to answer a question, maybe we can get the answer from a PlainTextAccounting.org program. Or, gasp, write one to answer the question?
+
+One of the many, many things I love about YNAB is their policy: it's your data.
+
+The other day we were changing a bunch of things in YNAB, and I wished we had checked things into git and could do a `git reset --hard` if needed.
+
+Peter Keen's work is exciting. 
+https://www.petekeen.net/a-robust-reporting-system-for-ledg…
+https://www.petekeen.net/program-your-finances-algorithmic-…
+
+I'm optimistic I'll find other exciting work in the PlainTextAccounting.org community.
+
+http://sachachua.com/…/2…/11/keeping-financial-score-ledger/ is another interesting post I found this morning. She points out that this is part of the "quantified self" world. http://sachachua.com/category/quantified/ I'm glad Sacha did that because it wasn't obvious to me.
+
+Do you agree that one of the benefits of budgeting is increasing mindfulness? Awareness that how your spend money is a reflection of your priorities? I realize that for many people it's not a good reflection of their priorities.
+
+
+I love the YNAB community! The blogs, podcasts, weekly whiteboard sessions, tutorials, and the people. The other day someone started a average expenditure database at https://goo.gl/yDvh4A I think that is very useful and interesting!
+
+What online budget communities do you like? What budget blogs do you like? What do you like about them?
+
