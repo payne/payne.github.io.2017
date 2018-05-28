@@ -24,4 +24,4 @@ github_username:  payne
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
